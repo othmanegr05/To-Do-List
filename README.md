@@ -30,7 +30,7 @@ MySQL (Base de données)
 🚀 Installation
 Clone le dépôt :
 
-git clone https://github.com/ton-utilisateur/nom-du-repo.git
+git clone https://github.com/othmanegr05/To-Do-List.git
 Configure ta base de données MySQL :
 
 Crée une base de données todolist
